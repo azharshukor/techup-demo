@@ -1,2 +1,2 @@
-# trilingotots
-A web app for kids to learn multiple languages.
+# TechUp Demo
+Trying out in class.
